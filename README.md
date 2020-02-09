@@ -202,3 +202,7 @@ Try hitting the `hjklJK` keys to interact with the 3D scene:
     make 
 
 Demos depends on libigl, stb, Eigen, Embree.
+
+## Note
+
+This implementation is hard-coded to work best with Courier New Bold.
